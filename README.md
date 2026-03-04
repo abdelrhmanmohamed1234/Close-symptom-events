@@ -34,4 +34,3 @@ This Bash script:
 
 ---
 
-## 📂 File Structure
